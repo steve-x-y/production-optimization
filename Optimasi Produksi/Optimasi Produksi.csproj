@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{81210787-EAEF-400A-8B2D-8274C2D8E0BF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Optimasi_Produksi</RootNamespace>
+    <AssemblyName>Optimasi Produksi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Data.AdoDotNetInterop.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\HRMS\HR\PayrollModule\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassFungsi.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ClassFungsiBaru.cs" />
+    <Compile Include="ClassVariabel.cs" />
+    <Compile Include="frmCari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCari.designer.cs">
+      <DependentUpon>frmCari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInputProduk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInputProduk.Designer.cs">
+      <DependentUpon>frmInputProduk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInsert.Designer.cs">
+      <DependentUpon>frmInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLaporan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLaporan.Designer.cs">
+      <DependentUpon>frmLaporan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMBahan.Designer.cs">
+      <DependentUpon>frmMBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMFormula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMFormula.Designer.cs">
+      <DependentUpon>frmMFormula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMMesin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMMesin.Designer.cs">
+      <DependentUpon>frmMMesin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMProduk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMProduk.Designer.cs">
+      <DependentUpon>frmMProduk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPerbandingan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPerbandingan.Designer.cs">
+      <DependentUpon>frmPerbandingan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProses_MSA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProses_MSA.Designer.cs">
+      <DependentUpon>frmProses_MSA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOptimasiProduksi_Input.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOptimasiProduksi_Input.Designer.cs">
+      <DependentUpon>frmOptimasiProduksi_Input.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProses_SA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProses_SA.Designer.cs">
+      <DependentUpon>frmProses_SA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrTerima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrTerima.Designer.cs">
+      <DependentUpon>frmTrTerima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCari.resx">
+      <DependentUpon>frmCari.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInputProduk.resx">
+      <DependentUpon>frmInputProduk.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInsert.resx">
+      <DependentUpon>frmInsert.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLaporan.resx">
+      <DependentUpon>frmLaporan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMBahan.resx">
+      <DependentUpon>frmMBahan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMFormula.resx">
+      <DependentUpon>frmMFormula.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMMesin.resx">
+      <DependentUpon>frmMMesin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMProduk.resx">
+      <DependentUpon>frmMProduk.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOptimasiProduksi_Input.resx">
+      <DependentUpon>frmOptimasiProduksi_Input.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPerbandingan.resx">
+      <DependentUpon>frmPerbandingan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProses_MSA.resx">
+      <DependentUpon>frmProses_MSA.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProses_SA.resx">
+      <DependentUpon>frmProses_SA.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrTerima.resx">
+      <DependentUpon>frmTrTerima.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputBox.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimasi Produksi", "Optimasi Produksi\Optimasi Produksi.csproj", "{81210787-EAEF-400A-8B2D-8274C2D8E0BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81210787-EAEF-400A-8B2D-8274C2D8E0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81210787-EAEF-400A-8B2D-8274C2D8E0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81210787-EAEF-400A-8B2D-8274C2D8E0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81210787-EAEF-400A-8B2D-8274C2D8E0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1035A0F-1F1B-4CFD-B038-D39214F1C674}
+	EndGlobalSection
+EndGlobal

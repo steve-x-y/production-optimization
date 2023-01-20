@@ -1,0 +1,76 @@
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\bin\Debug\Optimasi Produksi.exe
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\bin\Debug\Optimasi Produksi.pdb
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\ResolveAssemblyReference.cache
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMain.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMBahan.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMProduk.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.Properties.Resources.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.csproj.GenerateResource.Cache
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.exe
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.pdb
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMFormula.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmOptimasiProduksi_Input.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmCari.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmInsert.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmProses_SA.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmInputProduk.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmProses_MSA.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmLogin.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMMesin.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmTrTerima.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.InputBox.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmCetak.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmPerbandingan.resources
+I:\SKRIPSI 2017\MIKRO\TI\JANSEN & WESLY\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmLaporan.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.exe
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.pdb
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\bin\Debug\Optimasi Produksi.exe
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\bin\Debug\Optimasi Produksi.pdb
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\ResolveAssemblyReference.cache
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmCari.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmCetak.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmInputProduk.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmInsert.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmLaporan.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmLogin.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMain.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMBahan.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMFormula.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMMesin.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMProduk.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmOptimasiProduksi_Input.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmPerbandingan.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmProses_MSA.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmProses_SA.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmTrTerima.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.InputBox.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.Properties.Resources.resources
+D:\SKRIPSI 2019\UNPRI\Modified Simulated Annealing\BAHAN\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.csproj.GenerateResource.Cache
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.csprojAssemblyReference.cache
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmCari.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmInputProduk.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmInsert.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmLaporan.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmLogin.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMain.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMBahan.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMFormula.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMMesin.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmMProduk.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmOptimasiProduksi_Input.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmPerbandingan.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmProses_MSA.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmProses_SA.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.frmTrTerima.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.InputBox.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi_Produksi.Properties.Resources.resources
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.csproj.GenerateResource.cache
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.csproj.CoreCompileInputs.cache
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.exe
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.pdb
+E:\Optimasi Produksi\Optimasi Produksi\bin\Debug\Optimasi Produksi.exe
+E:\Optimasi Produksi\Optimasi Produksi\bin\Debug\Optimasi Produksi.pdb
+E:\Optimasi Produksi\Optimasi Produksi\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+E:\Optimasi Produksi\Optimasi Produksi\obj\Debug\Optimasi Produksi.csproj.CopyComplete
+E:\Optimasi Produksi\Optimasi Produksi\bin\Debug\Optimasi Produksi.exe.config
+E:\Optimasi Produksi\Optimasi Produksi\bin\Debug\MySql.Data.dll
